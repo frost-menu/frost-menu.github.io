@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'Niramit';
+	src: url(../../assets/fonts/Niramit-Regular.woff2) format('woff2'),
+	url(../../assets/fonts/Niramit-Regular.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Niramit';
+	src: url(../../assets/fonts/Niramit-SemiBoldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/Niramit-SemiBoldItalic.woff) format('woff');
+	font-weight: 600;
+	font-style: italic;
+}

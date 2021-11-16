@@ -1,0 +1,49 @@
+body {
+    height: 100Vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    /* background-image: url("../img/Frost\ BG.jpg"); */
+}
+
+.wrapper {
+    height: 50%;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Logo {
+    height: 50%;
+    width:100%
+}
+
+div > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+@font-face {
+    font-family: "myFont";
+    src: url("../fonts//Somatic-Rounded.otf") format("truetype");
+}
+
+Label > div > label{
+    font-family: "myFont";
+    color: #ABE6D9;
+    /* color: white; */
+}
+
+.Label {
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: -5%;
+}

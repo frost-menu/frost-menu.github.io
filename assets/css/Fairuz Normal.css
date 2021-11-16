@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Fairuz Normal';
+	src: url(../../assets/fonts/Fairuz-Normal.woff2) format('woff2'),
+	url(../../assets/fonts/Fairuz-Normal.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
